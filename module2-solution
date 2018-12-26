@@ -1,1 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Coding Assignment</title>
+<link rel="stylesheet" href="index.css">
+<style>
+</style>
+</head>
+<body>
+<h1>Mine Menu</h1>
 
+<div class="row box-items">
+  <div class="col-lg-4 col-md-6 box">
+  	<div class="box-item1">
+  	  	<div class="item1"><span>Jalal</span></div>
+  	  	<p> Knock, And He'll open the door
+Vanish, And He'll make you shine like the sun
+Fall, And He'll raise you to the heavens
+Become nothing, And He'll turn you into everything.Jalal Ad-Din Rumi </p>
+  	</div>
+  </div>
+  <div class="col-lg-4 col-md-6 box">
+  	<div class="box-item1">
+  	  	<div class="item2"><span>Ad-Din</span></div>
+  	  	<p>Knock, And He'll open the door
+Vanish, And He'll make you shine like the sun
+Fall, And He'll raise you to the heavens
+Become nothing, And He'll turn you into everything.Jalal Ad-Din Rumi </p>
+  	</div>
+  </div>
+  <div class="col-lg-4 col-md-12 box">
+  	<div class="box-item1">
+  	  	<div class="item3"><span>Rumi</span></div>
+  	  	<p>Knock, And He'll open the door
+Vanish, And He'll make you shine like the sun
+Fall, And He'll raise you to the heavens
+Become nothing, And He'll turn you into everything.Jalal Ad-Din Rumi </p>
+  	</div>
+  </div>
+</div>
+
+</body>
+</html>
